@@ -20,4 +20,4 @@
 Certified Cyber Security Analyst / SOC Analyst with hands-on experience in monitoring and analysing potential and active threats using security tools and processes, as well as monitoring incident response, reporting and documentation, log analysis, phishing analysis, vulnerability analysis, web application security and penetration testing. 
 
 I have worked on various projects to understand and implement the requirements of the ISO 27001 and BSI Grundschutz standard, gaining experience in protecting information assets, managing risk and establishing appropriate security controls</p>
-V](./mesuttorunCV.mp4)
+
