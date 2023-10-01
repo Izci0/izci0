@@ -10,9 +10,8 @@
 <p align="left">
 
   <a href="https://www.linkedin.com/in/mesuttorun/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meust torun" height="30" width="40" />linkedin</a>
-  <a href="https://www.xing.com/profile/mesuttorun/cv" target="_blank" ><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xing-icon.svg" alt="mesuttorun" height="30" width="40" />xing</a>
+  <a href="https://www.xing.com/profile/MeSut_ToeRuen/cv" target="_blank" ><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xing-icon.svg" alt="mesuttorun" height="30" width="40" />xing</a>
  
-
 
 ## :fire: My Stats :
 
