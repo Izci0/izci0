@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Hi+there+I+am+Mesut...)](https://git.io/typing-svg)
-<a href="https://github.com/izci0"><img src="https://visitor-badge.laobi.icu/badge?page_id=izci0&left_text=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1" alt="Ziyaret"></a>
+
 
 <img src="images/developer.gif" width="400" align="right" alt="logo">
 <h3 align="center">A passionate Information / Cyber Security Analist</h3>
