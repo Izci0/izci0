@@ -9,7 +9,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Timmana&size=30&duration=6000&color=F74747&center=true&vCenter=true&lines=%F0%9F%94%97+Connect+with+me...)](https://git.io/typing-svg)
 <p align="left">
 
-  <a href="https://www.linkedin.com/in/mesuttorun/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meust torun" height="30" width="40" />linkedin</a>
+  <a href="https://www.linkedin.com/in/mesuttörün-cyber-security/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meust torun" height="30" width="40" />linkedin</a>
   <a href="https://www.xing.com/profile/MeSut_ToeRuen/cv" target="_blank" ><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/xing-icon.svg" alt="mesuttorun" height="30" width="40" />xing</a>
  
 
